@@ -1,7 +1,7 @@
 # ghStudentModelsRepository
 
 Following is the list of my assessment of how to transform the eMovies Model into a modernized
-eMoviesSqlServer2019.
+eMoviesSqlServer2019 model.
 
 # 1. Conceptual Data Model
 CDM shows the critical business objects that are limited to a high-level solution and how these
